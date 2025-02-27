@@ -35,7 +35,7 @@ Imagen ![Logo UV](https://www.uv.mx/v2/images/logouv.jpg)
 ## Snipets
 ### configurar el hook
 ```
-abrir repositorio deseado
+open repositorio deseado
 seleccionar settings
 ir a webhook
 agregar un nuevo hook
